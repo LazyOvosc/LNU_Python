@@ -1,0 +1,4 @@
+age,birth_date,driver_license,driver_license_date,email,gender,id,mobile_phone,name
+15,23.04.2002,001,12.03.2020,invalid,male,1,+380923247395,Andriy
+16,12.04.2002,002,invalid,marta@gmail.com,female,2,+380951237297,Marta
+17,01.01.2004,003,01.01.2022,serhii@gmail.com,male,3,invalid,Sergiy

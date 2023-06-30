@@ -1,0 +1,8 @@
+Start station,End station,Number of stops,Length
+St1, St2, 15, 140
+St3, St4, 5, 5
+St4, St3, 10, 10
+St1, St7, 1, 130
+St5, St6, 110, 2
+St4, St9, 110, 4
+St3, St2, 110, 140
